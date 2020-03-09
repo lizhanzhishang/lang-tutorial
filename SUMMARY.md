@@ -12,4 +12,6 @@
 * [Dart](dart.md)
 * [Flutter](flutter.md)
 * 笔记网站
+* [Vue](vue.md)
+  * [安裝](vue/an-zhuang.md)
 
