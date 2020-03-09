@@ -3,6 +3,6 @@
 * [Kotlin](README.md)
 * [Java](chapter1.md)
 * [Dart](dart.md)
-* Flutter
+* [Flutter](flutter.md)
 * 笔记网站
 
