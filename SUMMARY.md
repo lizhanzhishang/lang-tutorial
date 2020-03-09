@@ -7,6 +7,7 @@
   * [Kotlin之DSL](kotlinzhi-dsl.md)
   * [Kotlin JVM](kotlin-jvm.md)
   * [Kotlin 关键词](kotlin-guan-jian-ci.md)
+  * [Kotlin 高阶函数](kotlin-gao-jie-han-shu.md)
 * [Java](chapter1.md)
 * [Dart](dart.md)
 * [Flutter](flutter.md)
